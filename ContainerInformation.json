@@ -3,40 +3,76 @@
 "ContenedorColor": "BLUE CONTAINER",
 "TipoContenedor": "Paper and cardboard",
 "DetallesQueDepositar": "Food packaging, shoe boxes, frozen products, wrapping paper, everyday paper, etc",
+"Image1":,
+"Image2":,
+"Image3":,
 "DetallesNoDepositar": "Bricks, Diapers and sanitary pads, Napkins and used kitchen paper"
+"ImageA:,
+"ImageB:,
+"ImageC:,
 },
 {
 "id": "2",
 "ContenedorColor": "YELLOW CONTAINER",
 "TipoContenedor": "Plastic",
 "DetallesQueDepositar": "Plastic bottles and containers, Metal containers, Bricks, Wooden and ceramic containers",
+"Image1":,
+"Image2":,
+"Image3":,
 "DetallesNoDepositar": "Plastic toys (they should go in the waste container, but there are organizations that collect them for social purposes), Bottles and pacifiers, Waste container,Kitchen utensils, Waste container, Plastic buckets, Container for leftovers."
+"ImageA":
+"ImageB":
+"ImageC":
 },
 {
 "id": "3",
 "ContenedorColor": "GREEN CONTAINER",
 "TipoContenedor": "Glass and crystals",
 "DetallesQueDepositar": "Food packaging, shoe boxes, frozen products, wrapping paper, everyday paper, etc",
+"Image1":,
+"Image2":,
+"Image3":,
 "DetallesNoDepositar": "Lights bulbs, mirrors, ashtrays, glasses or tableware (clean point)"
+"ImageA:,
+"ImageB":,
+"ImageC":,
 },
 {
 "id": "4",
 "ContenedorColor": "BROWN CONTAINER",
 "TipoContenedor": "Organic",
 "DetallesQueDepositar": "Food scraps such as fruit skins, fish bones, plants, egg shells or leftovers, or used napkins and paper towels can be composted.",
+"Image1":,
+"Image2":,
+"Image3":,
 "DetallesNoDepositar": "Non organic remains, such as Ceramic objects, diapers, cigarette butts, chewing gum, wet wipes, pet litter, hair, dust, etc"
+"ImageA":,
+"ImageB":,
+"ImageC":,
 },
 {
 "id": "5",
 "ContenedorColor": "GREY CONTAINER",
 "TipoContenedor": "Inorganic",
 "DetallesQueDepositar": "All types of waste such as used tissues, toys, bottles, pacifiers, kitchen utensils, diapers, ceramic objects, pet litter, hair, dust, cigarette butts, etc. that cannot be used for composting.",
+"Image1":,
+"Image2":,
+"Image3":,
 "DetallesNoDepositar": "Non organic remains, batteries, phones, computers and CD's, Furniture, mirrors and appliances (clean point), Expired pharmaceuticals (Special containers are available in pharmacies)"
+"ImageA":
+"ImageB":,
+"ImageC":,
 },
 {
 "id": "6",
 "ContenedorColor": "WHITE CONTAINER",
 "TipoContenedor": "Clean point",
 "DetallesQueDepositar": "Furniture, Cell phones, Household appliances, Computers and similar, CDs and storage units, Cells and batteries, Mirrors, Ink cartridges and printers, Cameras and cameras",
+"Image1":,
+"Image2":,
+"Image3":,
 "DetallesNoDepositar": "Not all recycling centers accept the same objects, so the best thing to do is to get information. You can look for information at the town hall or go to your nearest recycling center to check."
+"ImageA":
+"ImageB":
+"ImageC":
 }]
