@@ -7,9 +7,9 @@
 "Image2":,
 "Image3":,
 "DetallesNoDepositar": "Bricks, Diapers and sanitary pads, Napkins and used kitchen paper"
-"ImageA:,
-"ImageB:,
-"ImageC:,
+"ImageA":,
+"ImageB":,
+"ImageC":,
 },
 {
 "id": "2",
@@ -33,7 +33,7 @@
 "Image2":,
 "Image3":,
 "DetallesNoDepositar": "Lights bulbs, mirrors, ashtrays, glasses or tableware (clean point)"
-"ImageA:,
+"ImageA":,
 "ImageB":,
 "ImageC":,
 },
